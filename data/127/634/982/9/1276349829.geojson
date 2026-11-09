@@ -41,7 +41,7 @@
         "gn:id":2277088
     },
     "wof:country":"LR",
-    "wof:geomhash":"48f019481b521da308d70e99e87ff938",
+    "wof:geomhash":"cfb3fcf61e47f814c1e64816048153aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -10.0,
     7.06667
 ],
-  "geometry": {"coordinates":[-10.0,7.06667],"type":"Point"}
+  "geometry": {"coordinates":[-10,7.06667],"type":"Point"}
 }
