@@ -103,12 +103,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ba"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5df4\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":1343921597,
-    "wof:lastmodified":1636500650,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ba",
     "wof:parent_id":1091693759,
     "wof:placetype":"locality",
