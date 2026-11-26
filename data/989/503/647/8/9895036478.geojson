@@ -1,0 +1,74 @@
+{
+  "id": 9895036478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82277,4.99219,-8.82277,4.99219",
+    "geom:latitude":4.99219,
+    "geom:longitude":-8.82277,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425302: name \"Yapa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425302"
+        },
+        {
+            "citation":"GeoNames populated place 13425302: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425302"
+        },
+        {
+            "citation":"GeoNames populated place 13425302: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425302"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694661 (Dugbe River), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673519,
+        102191573,
+        1091694661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425302
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f9b36bcfdbba01afa431c198d5412849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694661,
+            "locality_id":9895036478,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":9895036478,
+    "wof:lastmodified":1795735173,
+    "wof:name":"Yapa",
+    "wof:parent_id":1091694661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82277,
+    4.99219,
+    -8.82277,
+    4.99219
+],
+  "geometry": {"coordinates":[-8.82277,4.99219],"type":"Point"}
+}

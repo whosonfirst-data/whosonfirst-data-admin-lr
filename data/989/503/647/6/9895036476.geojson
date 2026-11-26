@@ -1,0 +1,74 @@
+{
+  "id": 9895036476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.655,6.75442,-9.655,6.75442",
+    "geom:latitude":6.75442,
+    "geom:longitude":-9.655,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425235: name \"Boyeta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425235"
+        },
+        {
+            "citation":"GeoNames populated place 13425235: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425235"
+        },
+        {
+            "citation":"GeoNames populated place 13425235: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425235"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091692645 (Suakoko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673525,
+        102191573,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425235
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"894960034aa405ab9b9acd3919603d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":9895036476,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":9895036476,
+    "wof:lastmodified":1795735173,
+    "wof:name":"Boyeta",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.655,
+    6.75442,
+    -9.655,
+    6.75442
+],
+  "geometry": {"coordinates":[-9.655,6.75442],"type":"Point"}
+}

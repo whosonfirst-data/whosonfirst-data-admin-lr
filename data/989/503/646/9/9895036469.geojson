@@ -1,0 +1,74 @@
+{
+  "id": 9895036469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08759,8.28497,-10.08759,8.28497",
+    "geom:latitude":8.28497,
+    "geom:longitude":-10.08759,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2275804: name \"Kolahun\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2275804"
+        },
+        {
+            "citation":"GeoNames populated place 2275804: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2275804"
+        },
+        {
+            "citation":"GeoNames populated place 2275804: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2275804"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091693401 (Kolahun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673539,
+        102191573,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275804
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a83a63355db3e78794ccb9989b1ff919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":9895036469,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":9895036469,
+    "wof:lastmodified":1795735173,
+    "wof:name":"Kolahun",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08759,
+    8.28497,
+    -10.08759,
+    8.28497
+],
+  "geometry": {"coordinates":[-10.08759,8.28497],"type":"Point"}
+}

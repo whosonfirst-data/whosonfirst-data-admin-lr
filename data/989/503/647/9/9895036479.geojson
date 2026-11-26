@@ -1,0 +1,74 @@
+{
+  "id": 9895036479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4221,4.96254,-8.4221,4.96254",
+    "geom:latitude":4.96254,
+    "geom:longitude":-8.4221,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425316: name \"New Town\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425316"
+        },
+        {
+            "citation":"GeoNames populated place 13425316: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425316"
+        },
+        {
+            "citation":"GeoNames populated place 13425316: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425316"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091693179 (Sasstown), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673513,
+        102191573,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425316
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ddaf2dfefa6af3067832be2d74b1da56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":9895036479,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":9895036479,
+    "wof:lastmodified":1795735173,
+    "wof:name":"New Town",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4221,
+    4.96254,
+    -8.4221,
+    4.96254
+],
+  "geometry": {"coordinates":[-8.4221,4.96254],"type":"Point"}
+}

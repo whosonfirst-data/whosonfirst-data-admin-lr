@@ -1,0 +1,74 @@
+{
+  "id": 9895036470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.875,6.69516,-10.875,6.69516",
+    "geom:latitude":6.69516,
+    "geom:longitude":-10.875,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2275884: name \"Klay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2275884"
+        },
+        {
+            "citation":"GeoNames populated place 2275884: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2275884"
+        },
+        {
+            "citation":"GeoNames populated place 2275884: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2275884"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091692345 (Klay), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673523,
+        102191573,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275884
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e8ed1cf490da91e54a1809062d556b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":9895036470,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":9895036470,
+    "wof:lastmodified":1795735173,
+    "wof:name":"Klay",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.875,
+    6.69516,
+    -10.875,
+    6.69516
+],
+  "geometry": {"coordinates":[-10.875,6.69516],"type":"Point"}
+}

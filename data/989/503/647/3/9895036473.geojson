@@ -1,0 +1,74 @@
+{
+  "id": 9895036473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.293,6.22696,-10.293,6.22696",
+    "geom:latitude":6.22696,
+    "geom:longitude":-10.293,
+    "iso:country":"LR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425082: name \"Peterbli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425082"
+        },
+        {
+            "citation":"GeoNames populated place 13425082: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425082"
+        },
+        {
+            "citation":"GeoNames populated place 13425082: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425082"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091692709 (Owensgrove), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249,
+        85673531,
+        102191573,
+        1091692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425082
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ade02c041af9373949f601528ab94769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "locality_id":9895036473,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":9895036473,
+    "wof:lastmodified":1795735173,
+    "wof:name":"Peterbli",
+    "wof:parent_id":1091692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.293,
+    6.22696,
+    -10.293,
+    6.22696
+],
+  "geometry": {"coordinates":[-10.293,6.22696],"type":"Point"}
+}
